@@ -11,6 +11,10 @@ Each part of the project is describing in corresponding js files.
 
 Demo image and video is also provided. 
 
+The car has 100 test cars "underneath it" acting as the brain. It learns from it's mistakes. Any car that hits the traffic or the road boundary, gets a "Damaged" attribute and turns grey. You will see the brain follow along the car that took the best path.
+
+Code ran and tested on VSCode, use the Live Server extension see the model. Can alternatively use Settings > More tools > Developer Tools on Google Chrome. 
+
 There is a save and erase button to save your best run and the model improves upon itself.
 
 Can add as many traffic cars as you want. The code is fully responsive. 
