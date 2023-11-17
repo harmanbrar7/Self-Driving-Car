@@ -3,8 +3,9 @@ Car Deep Neural Network with sensors, avoids traffic, self improving, machine le
 
 ![Screen Shot 2023-11-16 at 11 55 48 PM](https://github.com/harmanbrar7/Self-Driving-Car/assets/89001739/21d30db0-7afb-4bef-bda0-2d237b4a8d2f)
 
-
 100% JavaScript framework, with no libraries. 
+
+The neural network is on the right side. The yellow indicators correspond to turning left, right, moving up and down.
 
 Each part of the project is describing in corresponding js files.
 
