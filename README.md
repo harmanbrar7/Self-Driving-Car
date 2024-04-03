@@ -1,5 +1,6 @@
 # Self-Driving-Car
-Car Deep Neural Network with sensors, avoids traffic, self improving, machine learning
+A Deep Neural Network car with sensors, avoids traffic and is self improving. 
+The machine learning algorithm relies on data structures/math completely with no ML libraries. 
 
 ![Screen Shot 2023-11-16 at 11 55 48 PM](https://github.com/harmanbrar7/Self-Driving-Car/assets/89001739/21d30db0-7afb-4bef-bda0-2d237b4a8d2f)
 
